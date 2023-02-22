@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714658538984",
+    "project_id": "sweet-camera-54c98",
+    "storage_bucket": "sweet-camera-54c98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714658538984:android:dab3c40c3d65ffd6a2f05d",
+        "android_client_info": {
+          "package_name": "com.camapp.sweetme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714658538984-77nfs96pvcvo64a46eq4lep61ojoni5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSq1iO93ws_nJykR3MDbvPt9Qs7wwF3vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714658538984-77nfs96pvcvo64a46eq4lep61ojoni5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

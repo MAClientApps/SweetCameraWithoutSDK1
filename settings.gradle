@@ -1,0 +1,21 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter()
+        maven { url "https://jitpack.io" }
+        maven { url 'https://dl.bintray.com/tzutalin/maven' }
+        //maven { url "http://dl.bintray.com/steveliles/maven" }
+    }
+}
+rootProject.name = "Sweet Camera"
+include ':app'
+include ':dlib'
